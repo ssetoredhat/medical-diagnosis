@@ -8,9 +8,9 @@ global:
 
   datacenter:
     cloudProvider: aws
-    storageClassName: gp2
-    region: ap-southeast-1
-    clustername: cluster-58whg.58whg.sandbox2047.opentlc.com
+    storageClassName: gp3-csi
+    region: us-east-2
+    clustername: jr-md410
     domain: blueprints.rhecoeng.com
 
   xraylab:
