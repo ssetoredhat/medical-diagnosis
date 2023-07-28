@@ -10,7 +10,7 @@ global:
     cloudProvider: aws
     storageClassName: gp2
     region: ap-southeast-1
-    clustername: apps.cluster-58whg.58whg.sandbox2047.opentlc.com
+    clustername: cluster-58whg.58whg.sandbox2047.opentlc.com
     domain: blueprints.rhecoeng.com
 
   xraylab:
