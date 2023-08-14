@@ -9,9 +9,9 @@ global:
   datacenter:
     cloudProvider: aws
     storageClassName: gp3-csi
-    region: us-east-2
-    clustername: cluster-vhxcv.vhxcv
-    domain: apps.cluster-vhxcv.vhxcv.sandbox2051.opentlc.com
+    region: ap-southeast-1
+    clustername: cluster-t75m9.t75m9
+    domain: apps.cluster-t75m9.t75m9.sandbox3012.opentlc.com
 
   xraylab:
     namespace: "xraylab-1"
