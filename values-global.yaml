@@ -10,8 +10,8 @@ global:
     cloudProvider: aws
     storageClassName: gp3-csi
     region: us-east-2
-    clustername: jr-md410
-    domain: blueprints.rhecoeng.com
+    clustername: cluster-vhxcv.vhxcv
+    domain: apps.cluster-vhxcv.vhxcv.sandbox2051.opentlc.com
 
   xraylab:
     namespace: "xraylab-1"
